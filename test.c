@@ -1,16 +1,16 @@
-//Ð´´úÂë
-//1.Ð´³öÖ÷º¯Êý£¨mainº¯Êý£©
-//100-500´úÂë
-//ÈçºÎÖ´ÐÐ£¿ - CÓïÑÔÊÇ´ÓÖ÷º¯ÊýµÄµÚÒ»ÐÐ¿ªÊ¼Ö´ÐÐµÄ
-//ËùÓÐcÓïÑÔ¶¼ÓÐmainº¯Êý -Èë¿Ú
+//å†™ä»£ç 
+//1.å†™å‡ºä¸»å‡½æ•°ï¼ˆmainå‡½æ•°ï¼‰
+//100-500ä»£ç 
+//å¦‚ä½•æ‰§è¡Œï¼Ÿ - Cè¯­è¨€æ˜¯ä»Žä¸»å‡½æ•°çš„ç¬¬ä¸€è¡Œå¼€å§‹æ‰§è¡Œçš„
+//æ‰€æœ‰cè¯­è¨€éƒ½æœ‰mainå‡½æ•° -å…¥å£
 
 #include <stdio.h>
 
 int main()
 {
-	printf("±ÈÌØ\n");
-	printf("%d\n", 100);//´òÓ¡Ò»¸öÕûÊý -%d
-	printf("%d\n",sizeof(char))£» //sizeof -¹Ø¼ü×Ö -²Ù×÷·û - ¼ÆËãÀàËÆ»ò¿´±äÁ¿ËùÕ¼¿Õ¼ä´óÐ¡ - µ¥Î»£º×Ö½Ú
+	printf("989\n");
+	printf("%d\n", 100);//æ‰“å°ä¸€ä¸ªæ•´æ•° -%d
+	printf("%d\n",sizeof(char))ï¼› //sizeof -å…³é”®å­— -æ“ä½œç¬¦ - è®¡ç®—ç±»ä¼¼æˆ–çœ‹å˜é‡æ‰€å ç©ºé—´å¤§å° - å•ä½ï¼šå­—èŠ‚
 
 	return 0;
 }
